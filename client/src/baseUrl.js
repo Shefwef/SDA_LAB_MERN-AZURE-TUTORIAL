@@ -1,3 +1,3 @@
-const baseUrl = "https://sdalab.azurewebsites.net/";
+const baseUrl = "https://sdalab.azurewebsites.net";
 
 export default baseUrl;
